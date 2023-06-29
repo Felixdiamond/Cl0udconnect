@@ -1,6 +1,6 @@
 # Cl0udConnect
 
-Cl0udConnect is a video conferencing app built with Django. With Cl0udConnect, users can sign up, log in, and share meeting links to conduct video conferences with others. This app provides all the necessary features you'd expect from a competent conferencing app.
+Cl0udConnect is a video conferencing app built with Django. With Cl0udConnect, users can sign up, log in, and share meeting links to conduct video conferences with others. 
 
 ## Features
 
@@ -8,9 +8,7 @@ Cl0udConnect is a video conferencing app built with Django. With Cl0udConnect, u
 - Meeting creation: Users can create a new meeting and generate a unique link to share with other participants.
 - Joining meetings: Participants can join a meeting by clicking on the link shared by the meeting host.
 - Video and audio conferencing: Participants can communicate with each other using video and audio conferencing.
-- Screen sharing: Participants can share their screens with others during the meeting.
 - Chat: Participants can use the chat feature to send text messages to other participants.
-- Recording: Meetings can be recorded and saved for future reference.
 
 ## Installation
 
